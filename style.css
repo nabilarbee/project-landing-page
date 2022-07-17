@@ -9,6 +9,16 @@ body {
   padding: 32px;
 }
 
+.hero-main {
+  display: flex;
+}
+
+.hero-texts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .header, .hero-main {
   background-color: #1F2937;
   font-family: sans-serif;
@@ -29,6 +39,11 @@ body {
  color: #F9FAF8;
  font-size: 48px;
  font-weight: bolder;
+}
+
+.hero-desc {
+  color: #E5E7EB;
+  font-size: 18px;
 }
 
 /* .header-links {
