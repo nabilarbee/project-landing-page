@@ -12,8 +12,8 @@ body {
 .hero-main {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 80px;
+  justify-content: space-around;
+
   padding: 100px;
 }
 
