@@ -42,7 +42,15 @@ body {
 }
 
 .signup-button {
-  
+  color: #F9FAF8;
+  background-color: #3882F6;
+  border-radius: 25px;
+  padding: 40px;
+  border-style: none;
+  font-weight: bold;
+  font-size: 28px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .header-links {
