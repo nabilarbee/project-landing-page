@@ -12,7 +12,8 @@ body {
 .hero-main {
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 120px;
 
   padding: 100px;
 }
@@ -61,7 +62,7 @@ body {
 .hero {
  color: #F9FAF8;
  font-size: 48px;
- font-weight: bolder;
+ font-weight: 1000;
 }
 
 .hero-desc {
