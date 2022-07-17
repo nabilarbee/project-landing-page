@@ -20,7 +20,8 @@ body {
 .hero-texts {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+  gap: 16px;
 }
 
 .header, .hero-main {
@@ -38,6 +39,10 @@ body {
   font-size: 24px;
   font-weight: bold;
   color: #F9FAF8;
+}
+
+.signup-button {
+  
 }
 
 .header-links {
