@@ -8,6 +8,9 @@ body {
   justify-content: space-around;
   padding: 32px;
   font-family: sans-serif;
+}
+
+.header, .hero-main {
   background-color: #1F2937;
 }
 
