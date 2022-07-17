@@ -11,6 +11,10 @@ body {
 
 .hero-main {
   display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  padding: 100px;
 }
 
 .hero-texts {
@@ -22,6 +26,12 @@ body {
 .header, .hero-main {
   background-color: #1F2937;
   font-family: sans-serif;
+}
+
+.image-placeholder {
+  color: #E5E7EB;
+  background-color: grey;
+  padding: 100px 156px;
 }
 
 .logo {
