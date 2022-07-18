@@ -13,7 +13,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 120px;
+  gap: 136px;
 
   padding: 100px;
 }
@@ -68,6 +68,19 @@ body {
 .hero-desc {
   color: #E5E7EB;
   font-size: 18px;
+}
+
+.information {
+  padding: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-box {
+  padding: 114px;
+  border: 8px solid #3882F6;
+  border-radius: 25px;
 }
 
 /* .header-links {
