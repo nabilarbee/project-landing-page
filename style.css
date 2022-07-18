@@ -77,8 +77,24 @@ body {
   align-items: center;
 }
 
+.info-text {
+  color: #1F2937;
+  font-size: 36px;
+  font-weight: 1000;
+  font-family: sans-serif;
+  margin-bottom: 50px;
+}
+
+.info-main {
+  display: flex;
+  gap: 56px;
+}
+
 .info-box {
-  padding: 114px;
+  box-sizing: border-box;
+  width: 244px;
+  height: 244px;
+  /* padding: 114px; */
   border: 8px solid #3882F6;
   border-radius: 25px;
 }
