@@ -151,6 +151,8 @@ body {
   padding: 108px;
   display: flex;
   justify-content: center;
+  font-family: sans-serif;
+  color: #F9FAF8;
 }
 
 .action-box {
@@ -162,6 +164,19 @@ body {
   border-radius: 20px;
   width: 1280px;
   height: 156px;
+}
+
+.action-head {
+  font-size: 32px;
+  font-weight: 900;
+}
+
+.action-subtext {
+  font-size: 24px;
+}
+
+.signup-two {
+  
 }
 
 /* .header-links {
