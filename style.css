@@ -146,6 +146,24 @@ body {
   align-self: flex-end;
 }
 
+.action-section {
+  background-color: white;
+  padding: 108px;
+  display: flex;
+  justify-content: center;
+}
+
+.action-box {
+  background-color: #3882F6;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  box-sizing: border-box;
+  border-radius: 20px;
+  width: 1280px;
+  height: 156px;
+}
+
 /* .header-links {
   margin-left: auto;
 } */
