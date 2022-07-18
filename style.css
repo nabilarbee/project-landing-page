@@ -33,7 +33,14 @@ body {
 .image-placeholder {
   color: #E5E7EB;
   background-color: grey;
-  padding: 100px 156px;
+  /* padding: 100px 156px; */
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: 580px;
+  height: 360px;
 }
 
 .logo {
