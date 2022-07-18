@@ -113,6 +113,29 @@ body {
   border-radius: 25px;
 }
 
+.quote-counter {
+  display: flex;
+  flex-direction: column;
+  font-family: Helvetica, sans-serif;
+  color: #1F2937;
+  text-align: center;
+  padding: 128px;
+  gap: 32px;
+  background-color: #E5E7EB;
+}
+
+.quote {
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 00;
+}
+
+.quoter {
+  font-weight: 1000;
+  font-size: 32px;
+
+}
+
 /* .header-links {
   margin-left: auto;
 } */
