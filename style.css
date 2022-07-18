@@ -190,6 +190,15 @@ body {
   padding-bottom: 12px;
 }
 
+.footer {
+  text-align: center;
+  padding: 40px;
+  color: #F9FAF8;
+  background-color: #1F2937;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
 /* .header-links {
   margin-left: auto;
 } */
