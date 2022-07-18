@@ -72,6 +72,7 @@ body {
 
 .information {
   padding: 56px;
+  padding-bottom: 128px;
   display: flex;
   flex-direction: column;
   align-items: center;
